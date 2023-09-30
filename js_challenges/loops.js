@@ -35,8 +35,17 @@ if (today=="Saturday") {
             case "Monday" :
             console.log("School time...")
             break;
+        
             
             
     }
+
+
+
+do{ 
+    console.log("Noor")
+    count++;
+    
+} while(count <10 );
 
 
